@@ -109,6 +109,13 @@
   height: 300px;
   border-radius: 10px;
   object-fit: cover;
+  margin-bottom: 12px;
+}
+
+.gif-item .gif-item__info {
+  color: white;
+  font-size: 12px;
+  text-align: right;
 }
 
 .connected-container input[type='text'] {
